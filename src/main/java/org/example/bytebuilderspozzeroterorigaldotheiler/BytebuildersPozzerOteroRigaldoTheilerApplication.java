@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /*  --- INTEGRANTES ---
  *   Pozzer, José Nicolás
- *
+ *   Theiler, Matias Hipolito
  *
  *
 */
