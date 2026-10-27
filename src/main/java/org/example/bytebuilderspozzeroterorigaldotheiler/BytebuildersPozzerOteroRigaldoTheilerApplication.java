@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *   Pozzer, José Nicolás
  *   Theiler, Matias Hipolito
  *   Rigaldo, Bruno
- *
+ *   Otero, José Ignacio
  *
 */
 
